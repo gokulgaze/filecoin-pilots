@@ -1,2 +1,3 @@
 # filecoin-pilots
-Filecoin Shipyard
+- Wrapped Filecoin on ERC20
+- Wrapped Filecoin on ERC721
